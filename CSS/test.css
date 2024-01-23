@@ -1,0 +1,28 @@
+body {
+    background-color: forestgreen;
+    text-align: center;
+    padding: 50px;
+    margin: 40px;
+}
+p{
+    color: firebrick;
+}
+.one{
+    color: darkred;
+    font-size: 30px;
+    font-family: AnjaliOldLipi;
+    font-weight: bold;
+}
+.three{
+    border: darkred 4px solid;
+    border-radius: 10px;
+    width: 50%;
+    height: 200px;
+}
+.four{font: all-petite-caps;
+    font-weight: bolder;
+
+}
+.five{
+    margin: 3px ;
+}

@@ -1,0 +1,27 @@
+#five{
+    background-color: fuchsia;
+    color: white;
+}
+
+#six{
+    background-color: green;
+    color: black;
+}
+#seven{
+    background-color: gray;
+    color: deeppink;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: orangered;
+    font-size: 30px;
+    border-bottom: orangered 3px solid;
+}
+image{
+    border: fuchsia 4px solid;
+    border-radius: 10px;
+}
